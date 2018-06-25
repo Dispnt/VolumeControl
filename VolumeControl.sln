@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VolumeControl", "VolumeControl\VolumeControl.vbproj", "{DEBDF0EB-4267-4721-9866-C1A2FCB98CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBDF0EB-4267-4721-9866-C1A2FCB98CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBDF0EB-4267-4721-9866-C1A2FCB98CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBDF0EB-4267-4721-9866-C1A2FCB98CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBDF0EB-4267-4721-9866-C1A2FCB98CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D74BC355-D8D9-419F-A536-8F96150DDC30}
+	EndGlobalSection
+EndGlobal
